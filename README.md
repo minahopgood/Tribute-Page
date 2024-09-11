@@ -1,1 +1,1 @@
-This project was created as a Certification Project for freeCodeCamp
+This was created as part of the freeCodeCamp Responsive Web Design certification projects.
